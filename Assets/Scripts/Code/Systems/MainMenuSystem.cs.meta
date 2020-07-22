@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a2c7a9f0ab629fd4cbabf7796c89d020
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FindRoomEvent: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 493eb45005e8adb45b6b2cb31be411e9, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
